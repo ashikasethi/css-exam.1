@@ -5,6 +5,15 @@
 .h1 {
   margin-bottom: 0px;
 }
+body {
+  background-color: gray;
+}
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+}
 .headline {
     font-size: 20px;
     margin-bottom: 0px;
