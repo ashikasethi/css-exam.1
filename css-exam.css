@@ -5,3 +5,23 @@
 .h1 {
   margin-bottom: 0px;
 }
+.headline {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+a:link {
+  color: #BF5700;
+}
+a:visited {
+  color: #BF5700;
+}
+.byline {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #636B66;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.paragraph {
+  margin-top: 0px;
+}
