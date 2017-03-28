@@ -5,6 +5,8 @@
 .h1 {
   margin-bottom: 0px;
 }
+@media screen and (min-width:600px) {
+
 body {
   background-color: gray;
 }
@@ -76,4 +78,6 @@ a:visited {
   border-bottom: 2px;
   border-style: dotted;
   padding-bottom: 10px;
+}
+
 }
