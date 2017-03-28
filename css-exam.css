@@ -8,6 +8,22 @@
 body {
   background-color: gray;
 }
+* {
+  box-sizing: border-box;
+}
+.clearfix {
+  overflow: auto;
+}
+.left-column {
+  float: left;
+  width: 70%;
+  padding: 10px;
+}
+.right-column {
+  float: right;
+  width: 30%;
+  padding: 10px;
+}
 .container {
   width: 800px;
   margin: auto;
